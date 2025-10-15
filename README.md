@@ -1,4 +1,15 @@
 # CIS 5660 HW04 Procedural Buildings
+Following are my inspiration
+
+![](./image/image%20(1).jpg)
+
+![](./image/image%20(2).jpg)
+
+![](./image/image%20(3).jpg)
+
+The main element of the this type of building, from overwatch Havana map, are arc doors/windows, unsymetric side and front, symetrix on the same side, and each level has balcony.
+
+For the assets required might be arc door/windows, arc roof, balcony wireframe, support stick between layers, and flowers/plants.
 
 ## Project Overview
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
